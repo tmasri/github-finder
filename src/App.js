@@ -44,7 +44,7 @@ class App extends Component {
       });
    };
 
-   // Get users repos
+   // Get users repositories
    getUserRepos = async username => {
       this.setState({ loading: true });
       const res = await axios.get(
