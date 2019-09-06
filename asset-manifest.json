@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-github-finder-tutorial/static/css/main.f65227a3.chunk.css",
+    "main.js": "/react-github-finder-tutorial/static/js/main.e8d921ad.chunk.js",
+    "main.js.map": "/react-github-finder-tutorial/static/js/main.e8d921ad.chunk.js.map",
+    "runtime~main.js": "/react-github-finder-tutorial/static/js/runtime~main.af9f3017.js",
+    "runtime~main.js.map": "/react-github-finder-tutorial/static/js/runtime~main.af9f3017.js.map",
+    "static/js/2.852f7b5f.chunk.js": "/react-github-finder-tutorial/static/js/2.852f7b5f.chunk.js",
+    "static/js/2.852f7b5f.chunk.js.map": "/react-github-finder-tutorial/static/js/2.852f7b5f.chunk.js.map",
+    "index.html": "/react-github-finder-tutorial/index.html",
+    "precache-manifest.a9eac9afec6ea42c964ee4be8387de26.js": "/react-github-finder-tutorial/precache-manifest.a9eac9afec6ea42c964ee4be8387de26.js",
+    "service-worker.js": "/react-github-finder-tutorial/service-worker.js",
+    "static/css/main.f65227a3.chunk.css.map": "/react-github-finder-tutorial/static/css/main.f65227a3.chunk.css.map"
+  }
+}
